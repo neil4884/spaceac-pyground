@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>Image/SPACE_AC.png</file>
+    <file>Image/SPACE_SPLASH2.png</file>
+    <file>Image/SPACE_SPLASH.png</file>
+  </qresource>
+</RCC>

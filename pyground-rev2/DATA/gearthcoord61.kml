@@ -1,0 +1,19 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder><name>Log</name><Placemark><name>PASSENGER-I SIM PATH</name><Style><LineStyle><color>ff00ffff</color><colorMode>normal</colorMode><width>3</width></LineStyle><PolyStyle><color>99000000</color><fill>1</fill></PolyStyle></Style><LineString><extrude>1</extrude><altitudeMode>absolute</altitudeMode><coordinates>
+100.3402710,15.2532263,1212.38
+100.3403015,15.2533646,1229.34
+100.3403320,15.2535191,1237.86
+100.3403931,15.2538338,1263.27
+100.3404388,15.2541094,1271.17
+100.3404846,15.2545891,1297.18
+100.3404922,15.2547598,1306.32
+100.3404999,15.2549095,1314.13
+100.3405075,15.2550840,1323.03
+100.3405075,15.2552357,1330.74
+100.3405151,15.2554083,1339.56
+100.3405228,15.2555599,1347.25
+100.3405304,15.2557306,1356.16
+100.3405380,15.2558775,1363.99
+100.3405457,15.2560425,1373.10
+100.3404922,15.2579870,1479.39
+
+</coordinates></LineString></Placemark></Folder></kml>

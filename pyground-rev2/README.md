@@ -1,3 +1,3 @@
-# PyGround Rev.2
+# PyGround Rev2
 
-This is PyGround Rev.2.
+This is PyGround Rev2.

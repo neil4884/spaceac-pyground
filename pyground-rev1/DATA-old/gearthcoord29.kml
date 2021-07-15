@@ -1,0 +1,24 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2"><Folder><name>Log</name><Placemark><name>PASSENGER-I PATH</name><styleUrl>#yellowLineGreenPoly</styleUrl><Style><LineStyle><color>ff00ffff</color><colorMode>normal</colorMode><width>4</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>absolute</altitudeMode><coordinates>
+100.336884,15.251124,-2222
+100.336876,15.251121,-2222
+100.336884,15.251096,-2222
+100.336876,15.251064,-2222
+100.336838,15.251076,-2222
+100.336845,15.251077,-2222
+100.336838,15.251077,-2222
+100.336845,15.251081,-2222
+100.336853,15.251079,-2222
+100.336853,15.251076,-2222
+100.336868,15.251075,-2222
+100.336845,15.251066,-2222
+100.336830,15.251064,-2222
+100.336830,15.251059,-2222
+100.336830,15.251067,-2222
+100.336815,15.251073,-2222
+100.336823,15.251075,-2222
+100.336823,15.251067,-2222
+100.336815,15.251055,-2222
+100.336853,15.251049,-2222
+100.336853,15.251052,-2222
+
+</coordinates></LineString></Placemark></Folder></kml>
